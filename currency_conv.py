@@ -1,6 +1,6 @@
 # Real-time Currency Converter with Python
         
-# Install forex_python pacakge
+# Install forex_python package
 from forex_python.converter import CurrencyRates
 
 def main():
