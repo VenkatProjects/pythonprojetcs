@@ -5,6 +5,6 @@ Python Projects
 
 Install forex-python package from [Currency Package}(https://pypi.org/project/forex-python/)
 
-##### OR
+                        ##### OR
             
 ```pip install forex-python```
