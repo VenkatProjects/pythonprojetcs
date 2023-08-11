@@ -1,4 +1,4 @@
-# pythonprojetcs
+# Python Projetcs
 Python Projects
 
 > ### Real-time Currency Converter with Python
